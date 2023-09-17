@@ -1,0 +1,10 @@
+import './style.css'
+import Login from "../../components/Login/Login";
+
+export default function LoginPage() {
+    return (
+        <main>
+            <Login />
+        </main>
+    )
+}
